@@ -90,7 +90,7 @@ body {
 
 /* hero section */
 .hero-section {
-    background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.5) 100%), url('./images/Hero\ Title\ BG.png') center/cover no-repeat;
+    background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.5) 100%), url('./images/HeroTitleBG.png') center/cover no-repeat;
     height: 70vh;
     display: flex;
     align-items: center;
@@ -256,7 +256,7 @@ body {
 /* status check section */
 .status-check-section {
     padding: 100px 0;
-    background: url('./images/Vector\ 1.jpg') center/cover no-repeat, var(--white);
+    background: url('./images/Vector1.jpg') center/cover no-repeat, var(--white);
     text-align: center;
 }
 
