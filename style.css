@@ -78,7 +78,6 @@ body {
     color: var(--black);
     text-decoration: none;
     padding: 12px 25px;
-    border-radius: 8px;
     font-weight: 700;
     transition: transform 0.2s; 
 }
